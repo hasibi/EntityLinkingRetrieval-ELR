@@ -1,1 +1,1 @@
-# Entity-Linking-integrated-Retrieval-ELR-
+# Exploiting entity linking in queries for entity retrieval
