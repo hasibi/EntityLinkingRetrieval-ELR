@@ -22,7 +22,7 @@ Use the follwoing command to run the code:
 python -m nordlys.elr.retrieval_elr <model_name>
 ```
 Using this command, the retrieval results are computed based on the recommended parameters in the paper. 
-For detailed description and setting different parameters read the help using this command `python -m nordlys.elr.retrieval_elr -h`.
+For detailed descriptions and setting different parameters read the help using this command `python -m nordlys.elr.retrieval_elr -h`.
 
 ## Code
 
@@ -34,7 +34,7 @@ The indices required for running this code are described in the paper. You can a
 The follwoing files under the `data` folder are also required for running the code:
 
 - `queries.json`: The DBpedia-entity queries, stopped as described in the paper.
-- `tagme_annotations.json`: entity annotaitons of the queries obtained from the [TAGME API](https://tagme.d4science.org/tagme/)
+- `tagme_annotations.json`: Entity annotaitons of the queries obtained from the [TAGME API](https://tagme.d4science.org/tagme/).
 
 
 
