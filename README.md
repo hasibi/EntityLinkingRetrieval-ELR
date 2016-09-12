@@ -24,6 +24,7 @@ python -m nordlys.elr.retrieval_elr <model_name>
 Using this command, the retrieval results are produced using the recommended parameters in the paper.
 For detailed descriptions and setting different parameters read the help using the command `python -m nordlys.elr.retrieval_elr -h`.
 
+Python v2.7 is required for running the code.
 
 ## Code
 
