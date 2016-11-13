@@ -5,8 +5,9 @@ This repository contains resources developed within the following paper:
 	F. Hasibi, K. Balog, and S.E. Bratsberg. “Exploiting Entity Linking in Queries for Entity Retrieval”,
 	In proceedings of ACM SIGIR International Conference on the Theory of Information Retrieval (ICTIR ’16), Newark, DE, USA, Sep 2016.
 
+You can check the [paper](http://hasibi.com/files/ictir2016-elr.pdf) and [presentation](http://www.slideshare.net/FaeghehHasibi/ictir2016-elr) for detailed information.
 
-This repository is structured as follows:
+The repository is structured as follows:
 
 - `nordlys/`: Code required for running entity retrieval methods.
 - `data/`: Query set and data required for running the code.
