@@ -40,12 +40,21 @@ The following files under the `data` folder are also required for running the co
 - `queries.json`: The DBpedia-entity queries, stopped as described in the paper.
 - `tagme_annotations.json`: Entity annotations of the queries obtained from the [TAGME API](https://tagme.d4science.org/tagme/).
 
-## Cite
 
-Please cite the following paper if you use our code or data in your work:
+## Citation
+
+If you use the resources presented in this repository, please cite:
+
 ```
-F. Hasibi, K. Balog, and S.E. Bratsberg. “Exploiting Entity Linking in Queries for Entity Retrieval”,
-In proceedings of ACM SIGIR International Conference on the Theory of Information Retrieval (ICTIR ’16), Newark, DE, USA, Sep 2016.
+@inproceedings{Hasibi:2015:ELQ, 
+   author =    {Hasibi, Faegheh and Balog, Krisztian and Bratsberg, Svein Erik},
+   title =     {Exploiting Entity Linking in Queries for Entity Retrieval},
+   booktitle = {Proceedings of ACM SIGIR International Conference on the Theory of Information Retrieval},
+   series =    {ICTIR '16},
+   year =      {2016},
+   publisher = {ACM}
+   DOI =       {ttp://dx.doi.org/10.1145/2970398.2970406}
+} 
 ```
 
 ## Contact
