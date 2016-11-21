@@ -46,13 +46,14 @@ The following files under the `data` folder are also required for running the co
 If you use the resources presented in this repository, please cite:
 
 ```
-@inproceedings{Hasibi:2015:ELQ, 
+@inproceedings{Hasibi:2016:ELR, 
    author =    {Hasibi, Faegheh and Balog, Krisztian and Bratsberg, Svein Erik},
    title =     {Exploiting Entity Linking in Queries for Entity Retrieval},
    booktitle = {Proceedings of ACM SIGIR International Conference on the Theory of Information Retrieval},
    series =    {ICTIR '16},
    year =      {2016},
-   publisher = {ACM}
+   pages=      {209-218},
+   publisher = {ACM},
    DOI =       {ttp://dx.doi.org/10.1145/2970398.2970406}
 } 
 ```
