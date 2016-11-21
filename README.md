@@ -1,4 +1,4 @@
-# ELR: Exploiting Entity Linking in Queries for Entity Retrieval
+# Entity Linking integrated Retrieval (ELR)
 
 This repository contains resources developed within the following paper:
 
